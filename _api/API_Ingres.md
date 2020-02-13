@@ -26,6 +26,9 @@ keywords:
   - RCC
   - Référentiels de Classification Centrale
   - Nomenclatures
+  
+theme:
+  -Emploi
 
 score:
   detail:
